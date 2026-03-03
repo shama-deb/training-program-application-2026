@@ -18,7 +18,7 @@
 
 # Load libraries -------------------
 # You may use base R or tidyverse for this exercise
-
+library(tidyverse)
 # ex. library(tidyverse)
 
 # Load data here ----------------------
